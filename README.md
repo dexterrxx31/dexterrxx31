@@ -1,5 +1,5 @@
 ## Hi There👋 This is Riyan Ahmad :wink: 
-
+![Alt Text](https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif)
 <!--
 **dexterrxx31/dexterrxx31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
