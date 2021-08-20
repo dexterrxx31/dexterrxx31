@@ -14,7 +14,7 @@
    <hr>
 
 [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dexterrxx31&exclude_repo=DeepLearning_PyTorch,Machine-Learning&theme=radical)](https://github.com/dexterrxx31/github-readme-stats) 
-[![Riyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexterrxx31&show_icons=true&theme=radical)](https://github.com/dexterrxx31/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dexterrxx31&show_icons=true&theme=radical)](https://github.com/dexterrxx31/github-readme-stats)
 
 
 <!--
