@@ -2,9 +2,8 @@
 <h1 align ="center"> Hi! There <img src = "https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width = 65 /> This is Riyan Ahmad
   <img src ="https://media.tenor.com/images/005e99522fd298c8391bb66d1f7274e9/tenor.gif" width = 50 /> </h1> 
 
-  - 🔭 I’m currently working on Machine Learning 
-  - 🌱 I’m currently learning Node.js
-  - 👯 I’m looking to collaborate on Node.js projects
+  - 🌱 I’m currently learning React
+  - 👯 I’m looking to collaborate on MERN projects
   - 📫 You can reach me at : riyanahmad99@gmail.com
  </p>
 <!--
