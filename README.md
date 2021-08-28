@@ -9,11 +9,16 @@
   
   - 🌱 I’m currently learning ReactJS
   - 👯 I’m looking to collaborate on MERN projects
-  - 📫 You can reach me at : riyanahmad99@gmail.com
-  
+  - 📫 You can reach me at :
+[![Linkedin Badge](https://img.shields.io/badge/-RiyanAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riyanahmad/)](https://www.linkedin.com/in/riyanahmad/)
+[![Gmail Badge](https://img.shields.io/badge/-riyanahmad99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riyanahmad99@gmail.com)](mailto:riyanahmad99@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-rnriyan-important?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rnriyan/)](https://www.instagram.com/rnriyan/)
+[![Discord Badge](https://img.shields.io/badge/-dexterrxx-blue?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/qnqR2rphEH)](https://discord.gg/qnqR2rphEH)
+[![Facebook Badge](https://img.shields.io/badge/-RiyanAhmad-informational?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dexterrxx31)](https:https://www.facebook.com/dexterrxx31)
+[![Twitter Badge](https://img.shields.io/badge/-Rnriyan-9cf?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Rnriyan31)](https://twitter.com/Rnriyan31)
    <hr>
 
-# My Toolbox 🧰 
+# My Toolkit 🧰 
 
 <p align="left">
 <img src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="c++" width="50" height="50"/>
@@ -37,6 +42,9 @@
 [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dexterrxx31&exclude_repo=DeepLearning_PyTorch,Machine-Learning,e-yantra&theme=radical)](https://github.com/dexterrxx31/github-readme-stats) 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dexterrxx31&show_icons=true&theme=radical)](https://github.com/dexterrxx31/github-readme-stats)
 
+<hr>
+
+![](https://komarev.com/ghpvc/?username=dexterrxx31&color=red&style=flat-square)
 
 <!--
 **dexterrxx31/dexterrxx31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
