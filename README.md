@@ -3,7 +3,7 @@
   <img src ="https://media.tenor.com/images/005e99522fd298c8391bb66d1f7274e9/tenor.gif" width = 50 /> </h1>
   
   <div align = "center">
-  <img src ="https://media2.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47go2wua2pqiidm1pwg1kt0qdcub7330k6wwbnifwi&rid=giphy.gif&ct=s">
+  <img src ="https://media2.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47go2wua2pqiidm1pwg1kt0qdcub7330k6wwbnifwi&rid=giphy.gif&ct=s" width = 350>
   </div>
   <hr>
   
