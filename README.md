@@ -18,7 +18,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Rnriyan-9cf?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Rnriyan31)](https://twitter.com/Rnriyan31)
    <hr>
 
-# My Toolkit 🧰 
+# My Techkit 🧰 
 
 <p align="left">
 <img src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="c++" width="50" height="50"/>
