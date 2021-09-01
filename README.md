@@ -7,9 +7,11 @@
   </div>
   <hr>
   
-  - 🌱 I’m currently learning ReactJS 
-  - 👯 I’m looking to collaborate on MERN , Data Science Projects.
-  - 📫 You can reach me at :
+  - 👦 I'm a self-taught coder 🧑‍💻, Full-Stack Web developer, and Data Science📊 Enthusiast pursuing Electronics🤖 and communication🛰️ engineering at JSSATE NOIDA 👨‍🎓.
+  - ✨ I love❣️ coding👨‍💻 and problem-solving and shaping my ideas💭 into web applications👨‍💻.
+  - 👯 Currently, I'm a Contributor👨‍👦‍👦 at GWoC'21 and developing a Social Media📱 web application as well.
+  - 🥰 I spend my leisure time reading tech blogs📱, novels📗, writing about my life experiences🖋, photographing📸 anything under the sun🌻 🍂 🐇.
+  - 📩 You can reach me at :
 [![Linkedin Badge](https://img.shields.io/badge/-RiyanAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riyanahmad/)](https://www.linkedin.com/in/riyanahmad/)
 [![Gmail Badge](https://img.shields.io/badge/-riyanahmad99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riyanahmad99@gmail.com)](mailto:riyanahmad99@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-rnriyan-important?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rnriyan/)](https://www.instagram.com/rnriyan/)
