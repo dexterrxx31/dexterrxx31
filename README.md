@@ -7,8 +7,8 @@
   </div>
   <hr>
   
-  - 🌱 I’m currently learning ReactJS
-  - 👯 I’m looking to collaborate on MERN projects
+  - 🌱 I’m currently learning ReactJS 
+  - 👯 I’m looking to collaborate on MERN , Data Science Projects.
   - 📫 You can reach me at :
 [![Linkedin Badge](https://img.shields.io/badge/-RiyanAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riyanahmad/)](https://www.linkedin.com/in/riyanahmad/)
 [![Gmail Badge](https://img.shields.io/badge/-riyanahmad99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riyanahmad99@gmail.com)](mailto:riyanahmad99@gmail.com)
