@@ -7,9 +7,9 @@
   </div>
   <hr>
   
-  - 👦 I'm a self-taught coder 🧑‍💻, Full-Stack Web developer, and Data Science📊 Enthusiast pursuing Electronics🤖 and communication🛰️ engineering at JSSATE NOIDA 👨‍🎓.
+  - 👦 I'm a self-taught coder 🧑‍💻, MERN developer, and Data Science📊 Enthusiast pursuing Electronics🤖 and communication🛰️ engineering at JSSATE NOIDA 👨‍🎓.
   - ✨ I love❣️ coding👨‍💻 and problem-solving and shaping my ideas💭 into web applications👨‍💻.
-  - 👯 Currently, I'm a Contributor👨‍👦‍👦 at GWoC'21 and developing a Social Media📱 web application as well.
+  - 👯 Currently, I'm a learning React.js
   - 🥰 I spend my leisure time reading tech blogs📱, novels📗, writing about my life experiences🖋, photographing📸 anything under the sun🌻 🍂 🐇.
   - 📩 You can reach me at :
 [![Linkedin Badge](https://img.shields.io/badge/-RiyanAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riyanahmad/)](https://www.linkedin.com/in/riyanahmad/)
