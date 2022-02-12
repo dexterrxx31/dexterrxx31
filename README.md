@@ -16,7 +16,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-riyanahmad99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riyanahmad99@gmail.com)](mailto:riyanahmad99@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-dexterrxx-blue?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/qnqR2rphEH)](https://discord.gg/qnqR2rphEH)
 [![Facebook Badge](https://img.shields.io/badge/-RiyanAhmad-informational?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dexterrxx31)](https:https://www.facebook.com/dexterrxx31)
-[![Twitter Badge](https://img.shields.io/badge/-Rnriyan-9cf?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dex_riyan)](https://twitter.com/dex_riyan)
+[![Twitter Badge](https://img.shields.io/badge/-Riyan Ahmad-9cf?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dex_riyan)](https://twitter.com/dex_riyan)
    <hr>
 
 # My Techkit 🧰 
