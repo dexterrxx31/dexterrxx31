@@ -14,10 +14,9 @@
   - 📩 You can reach me at :
 [![Linkedin Badge](https://img.shields.io/badge/-RiyanAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riyanahmad/)](https://www.linkedin.com/in/riyanahmad/)
 [![Gmail Badge](https://img.shields.io/badge/-riyanahmad99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riyanahmad99@gmail.com)](mailto:riyanahmad99@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-rnriyan-important?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rnriyan/)](https://www.instagram.com/rnriyan/)
 [![Discord Badge](https://img.shields.io/badge/-dexterrxx-blue?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/qnqR2rphEH)](https://discord.gg/qnqR2rphEH)
 [![Facebook Badge](https://img.shields.io/badge/-RiyanAhmad-informational?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dexterrxx31)](https:https://www.facebook.com/dexterrxx31)
-[![Twitter Badge](https://img.shields.io/badge/-Rnriyan-9cf?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Rnriyan31)](https://twitter.com/Rnriyan31)
+[![Twitter Badge](https://img.shields.io/badge/-Rnriyan-9cf?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dex_riyan)](https://twitter.com/dex_riyan)
    <hr>
 
 # My Techkit 🧰 
