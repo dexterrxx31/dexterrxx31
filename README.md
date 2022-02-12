@@ -35,8 +35,6 @@
 <img src="https://img.icons8.com/color/144/000000/mysql-logo.png" width="50" height="50"/>
 <img src="https://img.icons8.com/color/144/000000/mongodb.png" width="50" height="50"/>
 <img src="https://img.icons8.com/dusk/128/000000/php-logo.png" width="50" height="50"/>
-<img src="https://symbols.getvecta.com/stencil_92/77_pytorch-icon.3e1681b72a.svg" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/ROS_cat.png" width="100" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="60" height="50"/>
 </p>
 <hr>
