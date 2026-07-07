@@ -1,41 +1,105 @@
+<div align="center">
 
-<h1 align ="center"> Hi! There <img src = "https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width = 65 /> This is Riyan Ahmad
-  <img src ="https://media.tenor.com/images/005e99522fd298c8391bb66d1f7274e9/tenor.gif" width = 50 /> </h1>
-  
-  <div align = "center">
-  <img src ="https://media2.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47go2wua2pqiidm1pwg1kt0qdcub7330k6wwbnifwi&rid=giphy.gif&ct=s" width = 350>
-  </div>
-  <hr>
-  
--  🚀 Passionate Backend Engineer skilled in Python, FastAPI, Django, and AWS Lambda
--  🐘 Experienced with PostgreSQL, DynamoDB, Redis, and building scalable microservices
--  🔧 Proficient in REST API development, OpenAPI/AsyncAPI schema design, and cloud infrastructure automation
--  🎯 Strong problem solver with a focus on performance optimization and clean, testable code (Pytest)
--  ☁️ Hands-on with AWS services: Lambda, S3, SNS, DynamoDB, and CloudWatch
--  🔄 Skilled in CI/CD pipelines and containerization (Docker)
--  💡 Passionate about learning new tech and building robust, maintainable backend systems
--  🌐 Open to collaboration and continuous improvement in software development
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Riyan+Ahmad+%F0%9F%91%8B;Backend+Engineer;Python+%7C+FastAPI+%7C+Django+%7C+AWS;I+build+scalable+microservices" alt="Typing SVG" />
 
+<br/>
 
-  - 📩 You can reach me at :
-[![Linkedin Badge](https://img.shields.io/badge/-RiyanAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riyanahmad/)](https://www.linkedin.com/in/riyanahmad/)
-[![Gmail Badge](https://img.shields.io/badge/-riyanahmad99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riyanahmad99@gmail.com)](mailto:riyanahmad99@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/-dexterrxx-blue?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/qnqR2rphEH)](https://discord.gg/qnqR2rphEH)
-[![Facebook Badge](https://img.shields.io/badge/-RiyanAhmad-informational?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dexterrxx31)](https:https://www.facebook.com/dexterrxx31)
-[![Twitter Badge](https://img.shields.io/badge/-RiyanAhmad-9cf?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/dex_riyan)](https://twitter.com/dex_riyan)
-   <hr>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riyan_Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyanahmad/)
+[![Gmail](https://img.shields.io/badge/Gmail-riyanahmad99-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyanahmad99@gmail.com)
+[![Twitter](https://img.shields.io/badge/X-dex__riyan-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/dex_riyan)
+[![Discord](https://img.shields.io/badge/Discord-dexterrxx-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qnqR2rphEH)
 
-# My Techkit 🧰 
+![Profile Views](https://komarev.com/ghpvc/?username=dexterrxx31&color=38bdae&style=for-the-badge)
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+</div>
 
+---
 
-<hr>
+## 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dexterrxx31&show_icons=true&locale=en&layout=compact" alt="dexterrxx31" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dexterrxx31&show_icons=true&locale=en" alt="dexterrxx31" /></p>
+- 🔭 **Backend Engineer** building scalable microservices with **Python, FastAPI & Django**
+- ☁️ Hands-on with **AWS** — Lambda, S3, SNS, DynamoDB, CloudWatch
+- 🐘 Working with **PostgreSQL, DynamoDB & Redis** for data-intensive systems
+- 🔧 Designing **REST APIs** with OpenAPI/AsyncAPI schemas and automating cloud infrastructure
+- 🎯 Focused on **performance optimization** and clean, testable code (Pytest)
+- 🐳 Shipping with **Docker** and CI/CD pipelines
+- 🧠 Exploring **Deep Learning** with PyTorch on the side
+- 💬 Open to collaboration — reach out any time!
 
-<hr>
+---
 
-![](https://komarev.com/ghpvc/?username=dexterrxx31&color=red&style=flat-square)
+## 🧰 Tech Stack
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Data & ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![StreamVault](https://github-readme-stats.vercel.app/api/pin/?username=dexterrxx31&repo=streamvault&theme=tokyonight&hide_border=true)](https://github.com/dexterrxx31/streamvault)
+[![DeepLearning PyTorch](https://github-readme-stats.vercel.app/api/pin/?username=dexterrxx31&repo=DeepLearning_PyTorch&theme=tokyonight&hide_border=true)](https://github.com/dexterrxx31/DeepLearning_PyTorch)
+[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=dexterrxx31&repo=weather-app&theme=tokyonight&hide_border=true)](https://github.com/dexterrxx31/weather-app)
+[![DSA](https://github-readme-stats.vercel.app/api/pin/?username=dexterrxx31&repo=DataStructuresAlgorithms&theme=tokyonight&hide_border=true)](https://github.com/dexterrxx31/DataStructuresAlgorithms)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dexterrxx31&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexterrxx31&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=dexterrxx31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dexterrxx31&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+⭐️ From [dexterrxx31](https://github.com/dexterrxx31)
+
+</div>
