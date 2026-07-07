@@ -72,10 +72,10 @@
 
 <div align="center">
 
-[![StreamVault](https://github-readme-stats.vercel.app/api/pin/?username=dexterrxx31&repo=streamvault&theme=tokyonight&hide_border=true)](https://github.com/dexterrxx31/streamvault)
-[![DeepLearning PyTorch](https://github-readme-stats.vercel.app/api/pin/?username=dexterrxx31&repo=DeepLearning_PyTorch&theme=tokyonight&hide_border=true)](https://github.com/dexterrxx31/DeepLearning_PyTorch)
-[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=dexterrxx31&repo=weather-app&theme=tokyonight&hide_border=true)](https://github.com/dexterrxx31/weather-app)
-[![DSA](https://github-readme-stats.vercel.app/api/pin/?username=dexterrxx31&repo=DataStructuresAlgorithms&theme=tokyonight&hide_border=true)](https://github.com/dexterrxx31/DataStructuresAlgorithms)
+[![StreamVault](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dexterrxx31&repo=streamvault&theme=tokyonight&hide_border=true)](https://github.com/dexterrxx31/streamvault)
+[![DeepLearning PyTorch](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dexterrxx31&repo=DeepLearning_PyTorch&theme=tokyonight&hide_border=true)](https://github.com/dexterrxx31/DeepLearning_PyTorch)
+[![Weather App](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dexterrxx31&repo=weather-app&theme=tokyonight&hide_border=true)](https://github.com/dexterrxx31/weather-app)
+[![DSA](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dexterrxx31&repo=DataStructuresAlgorithms&theme=tokyonight&hide_border=true)](https://github.com/dexterrxx31/DataStructuresAlgorithms)
 
 </div>
 
@@ -85,8 +85,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dexterrxx31&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexterrxx31&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dexterrxx31&theme=tokyonight" alt="Profile Details" />
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dexterrxx31&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dexterrxx31&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=dexterrxx31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
