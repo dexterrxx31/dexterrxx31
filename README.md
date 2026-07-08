@@ -68,13 +68,19 @@
 
 ---
 
+## 🔨 Currently Building
+
+**[showrunner](https://github.com/dexterrxx31/showrunner)** — an AI-programmed linear TV channel. A cloud playout engine that turns a media library into a 24/7 HLS live stream, with Claude as the programming director. Stateless manifest-stitching architecture (the same approach behind modern FAST channels), built with FastAPI, FFmpeg, and Celery.
+
+---
+
 ## 📌 Featured Projects
 
 <div align="center">
 
+[![showrunner](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dexterrxx31&repo=showrunner&theme=tokyonight&hide_border=true)](https://github.com/dexterrxx31/showrunner)
 [![StreamVault](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dexterrxx31&repo=streamvault&theme=tokyonight&hide_border=true)](https://github.com/dexterrxx31/streamvault)
 [![DeepLearning PyTorch](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dexterrxx31&repo=DeepLearning_PyTorch&theme=tokyonight&hide_border=true)](https://github.com/dexterrxx31/DeepLearning_PyTorch)
-[![Weather App](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dexterrxx31&repo=weather-app&theme=tokyonight&hide_border=true)](https://github.com/dexterrxx31/weather-app)
 [![DSA](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dexterrxx31&repo=DataStructuresAlgorithms&theme=tokyonight&hide_border=true)](https://github.com/dexterrxx31/DataStructuresAlgorithms)
 
 </div>
