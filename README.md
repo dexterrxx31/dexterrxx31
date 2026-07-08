@@ -68,9 +68,9 @@
 
 ---
 
-## 🔨 Currently Building
+## 🎬 Spotlight: [showrunner](https://github.com/dexterrxx31/showrunner)
 
-**[showrunner](https://github.com/dexterrxx31/showrunner)** — an AI-programmed linear TV channel. A cloud playout engine that turns a media library into a 24/7 HLS live stream, with Claude as the programming director. Stateless manifest-stitching architecture (the same approach behind modern FAST channels), built with FastAPI, FFmpeg, and Celery.
+An **AI-programmed linear TV channel** — a cloud playout engine that turns a media library into a 24/7 HLS live stream, with Claude as the programming director. Stateless manifest-stitching architecture (the approach behind modern FAST channels): describe a schedule in plain English and it goes on air. Python/FastAPI control plane with a Go manifest origin (~16× throughput), FFmpeg ingest, XMLTV guide, and SCTE-35 ad markers. Verified drift-free over a simulated 24-hour soak.
 
 ---
 
