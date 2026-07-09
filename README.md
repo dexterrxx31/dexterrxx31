@@ -70,7 +70,15 @@
 
 ## 🎬 Spotlight: [showrunner](https://github.com/dexterrxx31/showrunner)
 
-An **AI-programmed linear TV channel** — a cloud playout engine that turns a media library into a 24/7 HLS live stream, with Claude as the programming director. Stateless manifest-stitching architecture (the approach behind modern FAST channels): describe a schedule in plain English and it goes on air. Python/FastAPI control plane with a Go manifest origin (~16× throughput), FFmpeg ingest, XMLTV guide, and SCTE-35 ad markers. Verified drift-free over a simulated 24-hour soak.
+An **AI-programmed linear TV channel** — a cloud playout engine that turns a media library into a 24/7 HLS live stream, with Claude as the programming director. Describe a schedule in plain English (*"90s action night, family-friendly until 21:00"*) and it goes on air.
+
+- 🧠 **AI programming director** — Claude (tool use) turns a brief into a validated schedule; deterministic validation is the safety rail
+- 🏗️ **Stateless manifest-stitching** core — the architecture behind modern FAST channels; verified drift-free over a simulated 24-hour soak
+- ⚡ **Go manifest origin** — hot path reimplemented in Go, byte-for-byte matched to Python, **~16× throughput** (~147k req/s)
+- 📺 **Broadcast-grade**: multi-channel, XMLTV EPG, SCTE-35 ad markers, FFmpeg ingest, and an optional branded true-encode playout mode
+- ✅ **99 Python tests + Go tests**, CI green
+
+`Python` · `FastAPI` · `Go` · `FFmpeg` · `Celery` · `PostgreSQL` · `Claude API`
 
 ---
 
