@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=38BDAE&center=true&vCenter=true&width=600&lines=riyan%40backend%3A~%24+whoami;Backend+Engineer+%7C+Python+%C2%B7+Go+%C2%B7+AWS" alt="Riyan Ahmad — Backend Engineer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=94E2D5&center=true&vCenter=true&width=600&lines=riyan%40backend%3A~%24+whoami;Backend+Engineer+%7C+Python+%C2%B7+Go+%C2%B7+AWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=179299&center=true&vCenter=true&width=600&lines=riyan%40backend%3A~%24+whoami;Backend+Engineer+%7C+Python+%C2%B7+Go+%C2%B7+AWS" alt="Riyan Ahmad — Backend Engineer" />
+</picture>
 
 <br/>
 
@@ -8,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-riyanahmad99-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:riyanahmad99@gmail.com)
 [![X](https://img.shields.io/badge/X-dex__riyan-1c1c1c?style=flat-square&logo=x&logoColor=white)](https://twitter.com/dex_riyan)
 [![Discord](https://img.shields.io/badge/Discord-dexterrxx-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/qnqR2rphEH)
-![Profile Views](https://komarev.com/ghpvc/?username=dexterrxx31&color=38bdae&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=dexterrxx31&color=94e2d5&style=flat-square)
 
 </div>
 
@@ -64,8 +67,14 @@ Backend engineer who builds **scalable microservices** with Python (FastAPI/Djan
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dexterrxx31&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dexterrxx31&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dexterrxx31&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dexterrxx31&show_icons=true&theme=catppuccin_latte&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dexterrxx31&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dexterrxx31&layout=compact&theme=catppuccin_latte&hide_border=true&langs_count=8" alt="Top Languages" />
+</picture>
 
 </div>
 
