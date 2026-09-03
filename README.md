@@ -68,12 +68,19 @@ Backend engineer who builds **scalable microservices** with Python (FastAPI/Djan
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dexterrxx31&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dexterrxx31&show_icons=true&theme=catppuccin_latte&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dexterrxx31&theme=catppuccin_mocha&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=dexterrxx31&theme=catppuccin_latte&hide_border=true" alt="Total contributions & streak" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dexterrxx31&theme=github_dark" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dexterrxx31&theme=default" alt="GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dexterrxx31&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dexterrxx31&layout=compact&theme=catppuccin_latte&hide_border=true&langs_count=8" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dexterrxx31&theme=github_dark" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dexterrxx31&theme=default" alt="Top languages by repo" />
 </picture>
 
 </div>
